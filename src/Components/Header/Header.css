@@ -1,0 +1,83 @@
+
+    .headerContainer{
+        font-family: 'Inter',sans-serif;
+        font-style: normal;
+        margin:0px;
+        padding: 0px;
+        display:flex;
+        background-color:#FFCD9E;
+        }
+    
+    .left{
+        height: 300px;
+        width:800px;
+        border: 0px solid;
+        padding: 100px;
+        margin:40px;
+        margin-left: 50px;
+    }
+    .text1{
+        color: #282828;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 150%;
+        
+    }
+    .text2{
+        color: #484848;
+    }
+    .text3{
+        font-family: 'Inter';
+        Font-style: Extra Bold;
+        Font-size: 20px;
+        Line-height: 32px;
+        
+    }
+    input{
+        width:60%;
+        border: 4px solid black;
+        padding: 12px 10px;
+        margin: 20px 0;
+        box-sizing: border-box;
+        border-radius: 8px;
+    }
+    
+    button {
+        background-color: black;
+        height: 40%;
+        width: 30%;
+        border: 1px;
+        color: white;
+        text-decoration: none;
+        margin-top: 20px;
+        margin-left: 10px;
+        line-height: 50px;
+        margin-bottom: 20px;
+        border-radius: 8px;
+      }
+    
+    p{
+        color:white;
+        margin-bottom: 20px;
+    }
+    .form{
+        display:flex;
+    }
+    .right{
+        height: 450px;
+        width:400px;
+        border: 0px solid;
+        padding: 30px;
+        margin:0px;
+        margin-left:0px;
+        margin-top: 50px;
+        margin-right: 100px;
+    
+        
+    }
+    .ig1{
+        height: 450px;
+        width: 400px;
+    }
